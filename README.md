@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open source, and buil
 ## 🚀 About Me
 
 - 💻 Software Developer & Open Source Enthusiast
-- 🎓 Lifelong Learner & Problem Solver
+- �� Lifelong Learner & Problem Solver
 - 🌱 Always exploring new technologies and frameworks
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ishika-aggarwal02/).
 
@@ -26,9 +26,14 @@ Welcome to my GitHub profile! I'm passionate about coding, open source, and buil
 ## 📈 GitHub Stats
 
 <p align="center">
+  <!-- General Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=IshikaAggarwal02&show_icons=true&theme=radical" alt="Ishika's GitHub Stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshikaAggarwal02&theme=radical" alt="Ishika's GitHub Streak"/>
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=IshikaAggarwal02&theme=radical" alt="Ishika's GitHub Streak"/>
+  <br>
+  <!-- Languages Usage -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshikaAggarwal02&layout=compact&theme=radical" alt="Most Used Languages"/>
 </p>
 
 <!---
@@ -54,7 +59,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open source, and buil
 - 🌏 I love exploring new places and cultures.
 - 🤖 AI and automation excite me!
 
-<!--->
+<!---
 
 <!-- INTERACTIVE SECTION: Add your own links, badges, or GIFs below! -->
 
