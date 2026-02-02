@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open source, and buil
 ## 🚀 About Me
 
 - 💻 Software Developer & Open Source Enthusiast
-- �� Lifelong Learner & Problem Solver
+- 🎓 Lifelong Learner & Problem Solver
 - 🌱 Always exploring new technologies and frameworks
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ishika-aggarwal02/).
 
@@ -34,6 +34,9 @@ Welcome to my GitHub profile! I'm passionate about coding, open source, and buil
   <br>
   <!-- Languages Usage -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshikaAggarwal02&layout=compact&theme=radical" alt="Most Used Languages"/>
+  <br>
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=IshikaAggarwal02&theme=radical" alt="GitHub Profile Trophies"/>
 </p>
 
 <!---
